@@ -1,12 +1,8 @@
 services:
   - type: web
     name: socialbuddy-backend
-    runtime: java
+    runtime: docker
     rootDir: backend
-
-    buildCommand: mvn clean package -DskipTests
-
-    startCommand: java -jar target/social-analyzer-0.0.1-SNAPSHOT.jar
 
     envVars:
       - key: GEMINI_API_KEY
@@ -14,14 +10,3 @@ services:
 
       - key: OCR_SPACE_API_KEY
         sync: false
-
-  - type: web
-    name: socialbuddy-frontend
-
-    runtime: node
-
-    rootDir: frontend
-
-    buildCommand: npm install && npm run build
-
-    startCommand: npm run preview
