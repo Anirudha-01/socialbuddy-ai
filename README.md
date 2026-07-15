@@ -38,21 +38,61 @@ To satisfy the requirements of the technical assessment, the following features 
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
-### Landing Page
-![Landing Page](https://via.placeholder.com/800x450?text=SocialBuddy+Landing+Page)
+### 🏠 Landing Page
 
-### Upload & Analysis
-![Upload & Analysis](https://via.placeholder.com/800x450?text=Upload+and+Analysis)
+<p align="center">
+  <img src="ss/landing%20page.png" width="900">
+</p>
 
-### Dashboard
-![Dashboard](https://via.placeholder.com/800x450?text=SaaS+Dashboard)
-
-### Generated Report
-![Generated Report](https://via.placeholder.com/800x450?text=Generated+PDF+Report)
+<p align="center">
+  <img src="ss/landing%20page%202.png" width="900">
+</p>
 
 ---
+
+### 📤 Upload & Analysis
+
+<p align="center">
+  <img src="ss/upload%201.png" width="900">
+</p>
+
+<p align="center">
+  <img src="ss/upload%202.png" width="900">
+</p>
+
+<p align="center">
+  <img src="ss/upload%203.png" width="900">
+</p>
+
+<p align="center">
+  <img src="ss/upload%204.png" width="900">
+</p>
+
+---
+
+### 📊 Dashboard
+
+<p align="center">
+  <img src="ss/dashboard%201.png" width="900">
+</p>
+
+<p align="center">
+  <img src="ss/dashboard%202.png" width="900">
+</p>
+
+<p align="center">
+  <img src="ss/dashboard%203.png" width="900">
+</p>
+
+---
+
+### 📈 Demo Dashboard
+
+<p align="center">
+  <img src="ss/demo%20dashboard.png" width="900">
+</p>
 
 ## Architecture
 
